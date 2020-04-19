@@ -1,0 +1,11 @@
+--2020-04-19 21:29:31--  https://raw.githubusercontent.com/ROBOTIS-GIT/robotis_tools/master/install_ros_kinetic.sh
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 151.101.108.133
+접속 raw.githubusercontent.com (raw.githubusercontent.com)|151.101.108.133|:443... 접속됨.
+HTTP request sent, awaiting response... 200 OK
+Length: 2996 (2.9K) [text/plain]
+Saving to: ‘install_ros_kinetic.sh’
+
+install_ros_kinetic.sh      0%[                                   ]       0  --.-KB/s               install_ros_kinetic.sh    100%[==================================>]   2.93K  --.-KB/s    in 0s      
+
+2020-04-19 21:29:32 (11.5 MB/s) - ‘install_ros_kinetic.sh’ saved [2996/2996]
+
